@@ -1,0 +1,115 @@
+                         Rithala (R)                                        Madipur (G)
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                    Netaji Subhash Place (R)                             Shivaji Park (G)
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                       Keshav Puram (R)       Ranjouri Garden (B)        Punjabi Bagh (G)
+                            |                         |                         |
+                            |                         |                         |
+                            |                         |                         |
+                            |                         |                         |
+                            |                         |                         |
+                       Kanhaiya Nagar (R)       Ramesh Nagar (B)            Ashok Park (G)
+                            |                         |                    /    |
+                            |                         |                   /     |
+                            |      /------------------|------------------/      |
+                            |     /                   |                         |
+                            |    /                    |                         |
+                        Inderlok (R)              Moti Nagar (B)        Sat Guru Ram Singh Marg (G)
+                            |                          \                        |   
+                            |                           \                       |
+                            |                            \-------------------\  |
+                            |                                                 \ |
+                            |                                                  \| 
+                       Shastri Nagar (R)	                          Kirti Nagar (B,G)
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                            |                                                   |
+                       Pratap Nagar (R)        Vishwavidalaya (Y)               |
+                            |                         |                         |
+                            |                         |                         |
+                            |                         |                     Shadipur (B)
+                            |                         |                         |
+                            |                         |                         |
+                        Pulbangash (R)          Vidhan Sabha (Y)                |
+                            |                         |                         |
+                            |                         |                         |
+                            |                         |                   Patel Nagar (B)
+                            |                         |                         |
+                            |                         |                         |
+                       Tis Hazari (R)            Civil Lines (Y)                |
+                            |                        /                          |
+                            |                       /                           |
+                            |  /-------------------/                     Rajender Place (B)
+                            | /                                                 |
+                            |/                                                  |
+                      Kashmere Gate (R,V,Y)                                     |
+                           /|\                                                  |
+                          / | \                                                 |
+       /-----------------/  |  \-----------------\                         Karol Bagh (B)
+      /                     |                     \                             |
+     /                      |                      \                            |
+Shastri Park (R)         Lal Qila (V)         Chandni Chowk (Y)                 |
+     |                      |                         |                         |
+     |                      |                         |                         |
+     |                      |                         |                         |
+     |                      |                         |                         |
+     |                      |                         |                         |
+ Seelampur (R)          Jama Masjid (V)         Chawri Bazar (Y)                |
+     |                      |                         |                         |
+     |                      |                         |                         |
+     |                      |                         |                         |
+     |                      |                         |                         |
+     |                      |                         |                         |
+  Welcome (R)           Delhi Gate (V)            New Delhi (Y)                 |
+                            |                          \                        |
+                            |                           \---------------------\ |
+                            |                                                  \|
+                            |                                              Rajiv Chowk (Y,B)
+                            |                                                  /|  
+                           ITO (V)                         /------------------/ |
+                            |                             /                     |
+                            |                     Barakhamba Road (B)           |
+                            |                           /                       |
+                            | /------------------------/                        |
+                            |/                                             Patel Chowk (Y)
+                      Mandi House (V,B)                                       /
+                            |\                                               /
+                            | \                                             /
+                            |  \------------------\                        /
+                            |                      \                      /
+                            |                       \          /---------/
+                       Pragati Maiden (B)        Janptah (V)  /
+                            |                         |      /
+                            |                         |     /
+                            |                         |    / 
+                            |                         |   /
+                            |                         |  /
+                       Indraprastha (B)     Central Secretariat (V,Y)
+                            |                         |\
+                            |                         | \
+                            |                         |  \-------------------\
+                            |                         |                       \
+                            |                         |                        \
+                        Yamuna Bank (B)         Udyog Bhawan (Y)           Khan Market (V)
+                                                      |                         |
+                                                      |                         |
+                                                      |                         |
+                                                      |                         |
+                                                      |                         |
+                                              Lok Kalyan Marg (Y)        JL Nehru Stadium (V)
+                                                      |                         |
+                                                      |                         |
+                                                      |                         |
+                                                      |                         |
+                                                      |                         |
+                                                  Jor Bagh (Y)             Jangpura (V)
